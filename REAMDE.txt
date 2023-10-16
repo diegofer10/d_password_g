@@ -1,0 +1,40 @@
+https://www.youtube.com/watch?v=I0m92SBfDI8&t=460s
+ 
+------------------------------------------------
+CONF INICIALES 
+
+1 generar entorno virtual dentro del proyecto
+python -m virtualenv venv
+
+2 instalo django
+pip install django
+
+3 nombre de proyecto
+django-admin startproject d_password_g .
+
+4 abrir desde la terminar con:  code . 
+
+------------------------------------------------
+
+INICIO EL PYORECTO 
+1. python manage.py runserver
+
+Genero una carpeta para proyecto
+python manage.py startapp generator     EJEMPLO generator por que es el nombre de la app
+
+------------------------------------------------
+3 Crear una aplicacion en django  min 32
+comando para crear una aplicacion 
+python manage.py startapp blog
+
+------------------------------------------------
+4 Estructura de una APP
+ ver archivo view de myapp
+
+
+------------------------------------------------
+5 Hola Mundo
+
+
+
+------------------------------------------------
