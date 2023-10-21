@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=I0m92SBfDI8&t=460s
+ 
  
 ------------------------------------------------
 CONF INICIALES 
@@ -38,3 +38,12 @@ python manage.py startapp blog
 
 
 ------------------------------------------------
+1 git status: ver si todos los archivos se compilaron o no 
+2 git add mas nombre de archivo podes guardar todos los cambios 
+3 git add . se guarda todo los archivos 
+4 git commit  -m"Primer commit" luego pres i para describir lo nuevo
+  :wq para guardar el commit
+5 git add .gitignore : si queres omitir un archivo
+
+_______
+EJEMPLO si queremos sacarle una foto completa ala proyecto
